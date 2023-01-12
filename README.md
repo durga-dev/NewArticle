@@ -16,9 +16,9 @@ To keep all those hundreds of source files from ending up in the same directory,
     ├─ Models
     ├─ Views
     ├─ ViewModels
-    ├─ Resources 
+    ├─ Resource
     ├─ Helper
-    ├─ Network Module
+    ├─ Service
     
 ### Architecture
 
